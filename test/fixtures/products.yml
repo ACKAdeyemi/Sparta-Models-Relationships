@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product_name: MyString
+  developed_by: MyString
+  year_created: 1
+
+two:
+  product_name: MyString
+  developed_by: MyString
+  year_created: 1
